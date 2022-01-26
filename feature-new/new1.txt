@@ -2,6 +2,6 @@ Aici avem un nou feature!
 
 Aici adaugam o noua functionalitate!
 
-Modificam date din feat/presentation-feature-2
+Modificam date din feat/presentation-feature-new
 
 Aceasta functionalitate trebuie imbunatatita!
