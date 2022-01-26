@@ -2,6 +2,7 @@ Aici avem un nou feature!
 
 Aici adaugam o noua functionalitate!
 
+Am modificat textul din branch feat/presentation-feature-2
 Am modificat textul din branch feat/presentation-feature-new
 
 Aceasta functionalitate trebuie imbunatatita!
