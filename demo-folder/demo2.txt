@@ -2,4 +2,7 @@ This is the second demo file!
 
 Continue to work on my current branch
 
+Update with master for merging conflicts
+
+New edit here
 Merge with master and some text
