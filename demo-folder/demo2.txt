@@ -7,4 +7,5 @@ Update with master for merging conflicts
 New edit here
 Merge with master and some text
 
+This is text from merge-conflicts-2 branch!
 This is text from merge-conflicts-1 branch!
